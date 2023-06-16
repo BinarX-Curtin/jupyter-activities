@@ -45,5 +45,10 @@ ipyleaflet
 plotly>=5,<6
 bqplot
 
+# BinarX Jupyterlite Custom Additions Below
+
+# JupyterLab: jupyterlab_autorun_cells
+jupyterlab_autorun_cells
+
 # Python: astropy
 astropy
