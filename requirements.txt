@@ -20,7 +20,7 @@ jupyterlite-pyodide-kernel==0.0.6
 # jupyterlite-xeus-lua==0.3.1
 
 # JupyterLab: Fasta file renderer (optional)
-jupyterlab-fasta>=3,<4
+# jupyterlab-fasta>=3,<4
 # JupyterLab: Geojson file renderer (optional)
 # jupyterlab-geojson>=3,<4
 # JupyterLab: guided tour (optional)
