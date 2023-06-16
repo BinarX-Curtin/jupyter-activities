@@ -1,0 +1,21 @@
+{
+  "@jupyterlab/apputils-extension:themes": {
+    "theme": "JupyterLab Dark"
+  },
+  "@jupyterlab/statusbar-extension:plugin": {
+    "visible": false,
+    "startMode": "single"
+  },
+  "@jupyterlab/application-extension:sidebar": {
+    "overrides": {
+        "jp-property-inspector": "left"
+     }
+  },
+  "@jupyterlab/filebrowser-extension:browser": {
+    "navigateToCurrentDirectory": false,
+    "useFuzzyFilter": true,
+    "filterDirectories": true,
+    "showLastModifiedColumn": false,
+    "showHiddenFiles": false
+  }
+}
