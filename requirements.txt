@@ -55,8 +55,5 @@ jupyterlab_autorun_cells
 # JupyterLab: jupyterlab-github
 jupyterlab-github
 
-# JupyterLab: jupyterlab-git
-jupyterlab-git
-
 # Python: astropy
 astropy
